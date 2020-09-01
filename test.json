@@ -1,5 +1,5 @@
 {
-    "rene": "man",
-    "iris": "vrouw",
-    "kinderen": ["jurre","harm"]
+    "information": {
+        "rene": "man",
+        "iris": "vrouw"
 }
